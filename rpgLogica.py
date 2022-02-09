@@ -45,4 +45,4 @@ if personagem == 'A' and arma == 'R':
 elif personagem == 'A' and arma == 'E':
     print('MORREU: você pagou com a vida para aprender que não se usa um arco para atirar uma espada!')
 while personagem == 'A' and arma =='J': #loopInfinito
-    print('Um portal se abre para a morte eterna. Bem-vindo à agonia do infinito')
+    print('Um portal se abre para a morte eterna. Bem-vindo à agonia do infinito.')
